@@ -1,0 +1,79 @@
+[33mcommit cbdf83afdfe3799ba40f59e4f83e4db42a02aa15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:57:47 2022 +0000
+
+    finished b code
+
+[33mcommit cb2f3272f9f47b124c633eddc269563fc3effb7e[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:46:50 2022 +0000
+
+    this is demo file
+
+[33mcommit efd9d792a81015f9c2d68d6fb804cc6fcd105d88[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 033d585 ca5ea1a
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:43:29 2022 +0000
+
+    resolved git conflict
+
+[33mcommit ca5ea1a0563e32b2de349851a7fff0e9da6b9ef4[m[33m ([m[1;32mnewbranch[m[33m)[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:40:21 2022 +0000
+
+    testfile in newbranch
+
+[33mcommit 033d5852804f00771083fbbd3697959525303737[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:38:23 2022 +0000
+
+    testfile in master branch
+
+[33mcommit cba8e9c5b16f7818d931280942e65e230d6e6223[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:32:08 2022 +0000
+
+    this is saa file
+
+[33mcommit 8be4c4235008a49647f8c7091380a21a02c069a3[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:28:46 2022 +0000
+
+    this is oogyfile
+
+[33mcommit 85c7965e51ca8cf77f70abb7055d59082fe594bf[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:21:19 2022 +0000
+
+    my 2 txt files
+
+[33mcommit 91ae6949f83534180431f9b392cac8bd0ae69d2f[m
+Merge: 605907f 7da82c8
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:17:22 2022 +0000
+
+    Merge branch 'master' of https://github.com/cookbav/cookb
+
+[33mcommit 605907f6b6c2c3d476833b0dd26922ee86fecb7b[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 14:16:20 2022 +0000
+
+    this is .gitignore file
+
+[33mcommit 7da82c8b926720555ab54f919001029129c08223[m
+Author: oogy <timcoo999k@gmail.com>
+Date:   Sat Jun 25 14:02:56 2022 +0000
+
+    3rd commit from oogy
+
+[33mcommit 33212dad3f72cfab91e93f8af77fdd5466862897[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 13:15:50 2022 +0000
+
+    this is 2nd commit from mahi
+
+[33mcommit 2f38c3fdc9c5efe19ae60bccf0a2ad8ca77ee321[m
+Author: mahi <mahi2022@gmail.com>
+Date:   Sat Jun 25 13:07:03 2022 +0000
+
+    1st commit from mahi
